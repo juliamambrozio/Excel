@@ -1,0 +1,78 @@
+CodigoDoProduto	NomeDoProduto	CodigoDoFornecedor	CodigoDaCategoria	QuantidadePorUnidade	PrecoUnitario	UnidadesEmEstoque	UnidadesPedidas	NivelDeReposicao	Descontinuado
+1	Chai	1	1	10 caixas x 20 pacotes	18,00	39	0	10	VERDADEIRO
+2	Chang	1	1	24 garrafas de 12oz	19,00	17	40	25	FALSO
+3	Aniseed Syrup	1	2	12 garrafas de 550ml	10,00	13	70	25	VERDADEIRO
+4	Chef Anton's Cajun Seasoning	2	2	48 vidros de 6oz	22,00	53	0	0	FALSO
+5	Chef Anton's Gumbo Mix	2	2	36 caixas	21,35	0	0	0	VERDADEIRO
+6	Grandma's Boysenberry Spread	3	2	12 vidros de 8oz	25,00	120	0	25	FALSO
+7	Uncle Bob's Organic Dried Pears	3	7	12 pacotes de 1lb	30,00	15	0	10	FALSO
+8	Northwoods Cranberry Sauce	3	2	12 vidros de 12oz	40,00	6	0	0	FALSO
+9	Mishi Kobe Niku	4	6	18 pacotes de 500g	97,00	29	0	0	VERDADEIRO
+10	Ikura	4	8	12 vidros de 200ml	31,00	31	0	0	FALSO
+11	Queso Cabrales	5	4	pacote de 1kg	21,00	22	30	30	FALSO
+12	Queso Manchego La Pastora	5	4	10 pacotes de 500g	38,00	86	0	0	FALSO
+13	Konbu	6	8	caixa de 2kg	6,00	24	0	5	FALSO
+14	Tofu	6	7	40 pacotes de 100g	23,25	35	0	0	FALSO
+15	Genen Shouyu	6	2	24 garrafas de 250ml	15,50	39	0	5	FALSO
+16	Pavlova	7	3	32 caixas de 500g	17,45	29	0	10	FALSO
+17	Alice Mutton	7	6	20 latas de 1kg	39,00	0	0	2	VERDADEIRO
+18	Carnarvon Tigers	7	8	pacote de 16kg	62,50	42	0	0	FALSO
+19	Teatime Chocolate Biscuits	8	3	10 caixas x 12 unidades	9,20	25	0	5	FALSO
+20	Sir Rodney's Marmalade	8	3	30 caixas para presente	81,00	40	0	0	FALSO
+21	Sir Rodney's Scones	8	3	24 pacotes x 4 unidades	10,00	3	40	5	FALSO
+22	Gustaf's Knäckebröd	9	5	24 pacotes de 500g	21,00	104	0	25	FALSO
+23	Tunnbröd	9	5	12 pacotes de 250g	9,00	61	0	25	FALSO
+24	Guaraná Fantástica	10	1	12 latas de 355ml	4,50	20	0	0	VERDADEIRO
+25	NuNuCa Nuß-Nougat-Creme	11	3	20 vidros de 450g	14,00	76	0	30	FALSO
+26	Gumbär Gummibärchen	11	3	100 sacos de 250g	31,23	15	0	0	FALSO
+27	Schoggi Schokolade	11	3	100 unidades de 100g	43,90	49	0	30	FALSO
+28	Rössle Sauerkraut	12	7	25 latas de 825g	45,60	26	0	0	VERDADEIRO
+29	Thüringer Rostbratwurst	12	6	50 pacotes x 30 salsichas	123,79	0	0	0	VERDADEIRO
+30	Nord-Ost Matjeshering	13	8	10 vidros de 200g	25,89	10	0	15	FALSO
+31	Gorgonzola Telino	14	4	12 pacotes de 100g	12,50	0	70	20	FALSO
+32	Mascarpone Fabioli	14	4	24 pacotes de 200g	32,00	9	40	25	FALSO
+33	Geitost	15	4	500g	2,50	112	0	20	FALSO
+34	Sasquatch Ale	16	1	24 garrafas de 12oz	14,00	111	0	15	FALSO
+35	Steeleye Stout	16	1	24 garrafas de 12oz	18,00	20	0	15	FALSO
+36	Inlagd Sill	17	8	24 vidros de 250g	19,00	112	0	20	FALSO
+37	Gravad lax	17	8	12 pacotes de 500g	26,00	11	50	25	FALSO
+38	Côte de Blaye	18	1	12 garrafas de 75cl	263,50	17	0	15	FALSO
+39	Chartreuse verte	18	1	750cc por garrafa	18,00	69	0	5	FALSO
+40	Boston Crab Meat	19	8	24 latas de 4oz	18,40	123	0	30	FALSO
+41	Jack's New England Clam Chowder	19	8	12 latas de 12oz	9,65	85	0	10	FALSO
+42	Singaporean Hokkien Fried Mee	20	5	32 pacotes de 1kg	14,00	26	0	0	VERDADEIRO
+43	Ipoh Coffee	20	1	16 latas de 500g	46,00	17	10	25	FALSO
+44	Gula Malacca	20	2	20 sacos de 2kg	19,45	27	0	15	FALSO
+45	Røgede sild	21	8	pacote de 1kg	9,50	5	70	15	FALSO
+46	Spegesild	21	8	4 vidros de 450g	12,00	95	0	0	FALSO
+47	Zaanse koeken	22	3	10 caixas de 4oz	9,50	36	0	0	FALSO
+48	Chocolade	22	3	10 pacotes	12,75	15	70	25	FALSO
+49	Maxilaku	23	3	24 pacotes de 50g	20,00	10	60	15	FALSO
+50	Valkoinen suklaa	23	3	12 barras de 100g	16,25	65	0	30	FALSO
+51	Manjimup Dried Apples	24	7	50 pacotes de 300g	53,00	20	0	10	FALSO
+52	Filo Mix	24	5	16 caixas de 2kg	7,00	38	0	25	FALSO
+53	Perth Pasties	24	6	48 unidades	32,80	0	0	0	VERDADEIRO
+54	Tourtière	25	6	16 unidades	7,45	21	0	10	FALSO
+55	Pâté chinois	25	6	24 caixas x 2 unidades	24,00	115	0	20	FALSO
+56	Gnocchi di nonna Alice	26	5	24 pacotes de 250g	38,00	21	10	30	FALSO
+57	Ravioli Angelo	26	5	24 pacotes de 250g	19,50	36	0	20	FALSO
+58	Escargots de Bourgogne	27	8	24 unidades	13,25	62	0	20	FALSO
+59	Raclette Courdavault	28	4	pacote de 5kg	55,00	79	0	0	FALSO
+60	Camembert Pierrot	28	4	15 unidades de 300g	34,00	19	0	0	FALSO
+61	Sirop d'érable	29	2	24 garrafas de 500ml	28,50	113	0	25	FALSO
+62	Tarte au sucre	29	3	48 unidades	49,30	17	0	0	FALSO
+63	Vegie-spread	7	2	15 vidros de 625g	43,90	24	0	5	FALSO
+64	Wimmers gute Semmelknödel	12	5	20 sacos x 4 unidades	33,25	22	80	30	FALSO
+65	Louisiana Fiery Hot Pepper Sauce	2	2	32 garrafas de 8oz	21,05	76	0	0	FALSO
+66	Louisiana Hot Spiced Okra	2	2	24 vidros de 8oz	17,00	4	100	20	FALSO
+67	Laughing Lumberjack Lager	16	1	24 garrafas de 12oz	14,00	52	0	10	FALSO
+68	Scottish Longbreads	8	3	10 caixas x 8 unidades	12,50	6	10	15	FALSO
+69	Gudbrandsdalsost	15	4	pacote de 10kg	36,00	26	0	15	FALSO
+70	Outback Lager	7	1	24 garrafas de 355ml	15,00	15	10	30	FALSO
+71	Fløtemysost	15	4	10 pacotes de 500g	21,50	26	0	0	FALSO
+72	Mozzarella di Giovanni	14	4	24 pacotes de 200g	34,80	14	0	0	FALSO
+73	Röd Kaviar	17	8	24 vidros de 150g	15,00	101	0	5	FALSO
+74	Longlife Tofu	4	7	pacote de 5kg	10,00	4	20	5	FALSO
+75	Rhönbräu Klosterbier	12	1	24 garrafas de 500ml	7,75	125	0	25	FALSO
+76	Lakkalikööri	23	1	500ml	18,00	57	0	20	FALSO
+77	Original Frankfurter grüne Soße	12	2	12 caixas	13,00	32	0	15	FALSO
